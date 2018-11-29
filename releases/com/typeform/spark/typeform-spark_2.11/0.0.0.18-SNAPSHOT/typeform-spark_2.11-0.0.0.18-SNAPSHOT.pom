@@ -5,7 +5,7 @@
     <artifactId>typeform-spark_2.11</artifactId>
     <packaging>jar</packaging>
     <description>typeform-spark</description>
-    <version>0.0.0.16-SNAPSHOT</version>
+    <version>0.0.0.18-SNAPSHOT</version>
     <name>typeform-spark</name>
     <organization>
         <name>com.typeform.spark</name>
