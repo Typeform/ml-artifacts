@@ -50,13 +50,11 @@
             <groupId>com.databricks</groupId>
             <artifactId>spark-redshift_2.11</artifactId>
             <version>3.0.0-preview1</version>
-            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>com.amazon.redshift</groupId>
             <artifactId>redshift-jdbc42</artifactId>
             <version>1.2.10.1009</version>
-            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>com.github.pathikrit</groupId>
