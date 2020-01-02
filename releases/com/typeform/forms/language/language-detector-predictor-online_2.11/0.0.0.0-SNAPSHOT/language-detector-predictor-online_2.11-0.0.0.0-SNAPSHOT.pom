@@ -23,16 +23,19 @@
             <groupId>org.apache.tika</groupId>
             <artifactId>tika-core</artifactId>
             <version>1.22</version>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.tika</groupId>
             <artifactId>tika-langdetect</artifactId>
             <version>1.22</version>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk</artifactId>
             <version>1.11.519</version>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.scalatest</groupId>
